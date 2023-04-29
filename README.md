@@ -12,9 +12,9 @@ Analytical Solution: An advanced analytics solution that can identify the profil
 
 ## You can find the data sets that you need below:
 
-*Historical-transaction-data.csv - contains the historical transaction data set with 488,788 records collected from each customer purchase. The granularity of the data set is at the date-customer-invoice-item level.
-*Store-info.csv - contains the store info data set with 124 stores with shop space and store profile. The granularity of the data set is at the store level.
-*Testing-data.csv - the test set for the competition.
-*Data-dictionary.xlsx - contains the information about data attributes for both data sets.
-*DataStorm4.0_KaggleProblemStatement.pdf - Detailed explanation of the problem along with the marking criteria.
+* Historical-transaction-data.csv - contains the historical transaction data set with 488,788 records collected from each customer purchase. The granularity of the data set is at the date-customer-invoice-item level.
+* Store-info.csv - contains the store info data set with 124 stores with shop space and store profile. The granularity of the data set is at the store level.
+* Testing-data.csv - the test set for the competition.
+* Data-dictionary.xlsx - contains the information about data attributes for both data sets.
+* DataStorm4.0_KaggleProblemStatement.pdf - Detailed explanation of the problem along with the marking criteria.
 Please note that you will also receive the marking criteria and a detailed explanation of the problem in the competition document.
